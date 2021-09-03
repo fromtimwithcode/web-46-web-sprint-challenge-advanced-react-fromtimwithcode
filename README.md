@@ -99,10 +99,10 @@ The form is working, but it is currently controlled by local stateful logic. We 
 
 ## Submission format
 
-- [ ] Submit via Codegrade by commiting and pushing any new changes.
-- [ ] Check codegrade for automated feedback.
-- [ ] Check codegrade on Monday following the Sprint Challenge for reviewer feedback. For more information on how to access and read your feedback, check [here](https://www.notion.so/lambdaschool/How-to-View-Feedback-in-CodeGrade-c5147cee220c4044a25de28bcb6bb54a)
-- [ ] Any changes pushed to your <firstName-lastName> branch will resubmited to codegrade if pushed before the sprint challenge deadline. Changes after the deadline will not be reviewed.
+- [*] Submit via Codegrade by commiting and pushing any new changes.
+- [*] Check codegrade for automated feedback.
+- [*] Check codegrade on Monday following the Sprint Challenge for reviewer feedback. For more information on how to access and read your feedback, check [here](https://www.notion.so/lambdaschool/How-to-View-Feedback-in-CodeGrade-c5147cee220c4044a25de28bcb6bb54a)
+- [*] Any changes pushed to your <firstName-lastName> branch will resubmited to codegrade if pushed before the sprint challenge deadline. Changes after the deadline will not be reviewed.
 
 ## Interview Questions
 
@@ -116,8 +116,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
    -compnentWillUpdate is called every time a re-render occurs.
 
 3. Define stateful logic.
-
-- State logic updates, manipulates, or handles state.
+   -State logic updates, manipulates, or handles state.
 
 4. What are the three step of creating a successful test? What is done in each phase?
    -Arrange: Setup the React component we are testing.

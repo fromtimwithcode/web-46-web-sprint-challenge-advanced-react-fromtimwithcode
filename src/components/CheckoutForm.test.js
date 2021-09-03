@@ -43,5 +43,5 @@ test("shows success message on submit with form details", async () => {
         expect(successMsg).toHaveTextContent(/milwaukee/i);
         expect(successMsg).toHaveTextContent(/wi/i);
         expect(successMsg).toHaveTextContent(/12345/i);
-    })
+    });
 });
